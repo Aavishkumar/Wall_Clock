@@ -171,7 +171,7 @@
     width: 100%;
     height: 100%;
     transform: rotate(120deg);
-    animation: sec 216000s steps(60,end)  infinite;
+    animation: sec 86400s steps(60,end)  infinite;
 }
 #hour::after{
     content: "";
