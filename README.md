@@ -1,2 +1,3 @@
 # Wall_Clock
-Build a animated wall clock using HTML, CSS
+Build a animated wall clock using HTML, CSS.
+LIVE PREVIEW : https://aavishkumar.github.io/Wall_Clock/
